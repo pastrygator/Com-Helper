@@ -1,3 +1,3 @@
-function marker.Category:Hide(ch)
+function marker.combatFade(marker, trail)
     return Mumble.PlayerCharacter.IsInCombat
 end

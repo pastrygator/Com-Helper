@@ -7,9 +7,10 @@
             
             <!--Wing 1-->
             <MarkerCategory DisplayName="Spirit Vale" name="sv">
-                <MarkerCategory DisplayName="Squad Markers" name="sm" iconFile="textures/devt.png"/>
+                <MarkerCategory DisplayName="Squad Markers" name="sm" iconFile="textures/devt.png" />
+                <MarkerCategory DisplayName="Billboards" name="bb" iconFile="textures/devt.png" alpha="0" isHidden="1" />
             </MarkerCategory>
-        
+
         </MarkerCategory>
 
     </MarkerCategory>

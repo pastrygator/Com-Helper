@@ -1,0 +1,15 @@
+<OverlayData>
+
+    <!--Value Guardian-->
+    <POIs>
+        <!--Entrance - Mini Bosses-->
+
+        <!--Billboard Toggle-->
+        <POI MapID="1062" xpos="-109.308" ypos="39.4996" zpos="-735.564" type="ch.raid.sv.sm" GUID="dDdHjhqKtE+AXSm1pwzeSg==" toggle="ch.raid.sv.bb" />
+
+        <!--Blue Guardian-->
+        <POI MapID="1062" xpos="-117" ypos="43" zpos="-726" type="ch.raid.sv.bb" rotate="-117,43,-726" GUID="bVoBabPxDUSHSubayqGYtw==" iconFile="textures/devt.png" />
+        
+    </POIs>
+
+</OverlayData>
