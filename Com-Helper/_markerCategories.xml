@@ -1,0 +1,17 @@
+<OverlayData>
+
+    <MarkerCategory DisplayName="Commander Helper Pack" name="ch">
+        
+        <!--Raids-->
+        <MarkerCategory DisplayName="Raids" name="raid">
+            
+            <!--Wing 1-->
+            <MarkerCategory DisplayName="Spirit Vale" name="sv">
+                <MarkerCategory DisplayName="Squad Markers" name="sm" iconFile="textures/devt.png"/>
+            </MarkerCategory>
+        
+        </MarkerCategory>
+
+    </MarkerCategory>
+    
+</OverlayData>
