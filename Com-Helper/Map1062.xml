@@ -8,7 +8,7 @@
         <POI MapID="1062" xpos="-109.308" ypos="39.4996" zpos="-735.564" type="ch.raid.sv.sm" GUID="dDdHjhqKtE+AXSm1pwzeSg==" toggle="ch.raid.sv.bb" />
 
         <!--Blue Guardian-->
-        <POI MapID="1062" xpos="-117" ypos="43" zpos="-726" type="ch.raid.sv.bb" rotate="0,50,0" GUID="bVoBabPxDUSHSubayqGYtw==" iconFile="data/textures/1062/blue-billboard.png" />
+        <POI MapID="1062" xpos="-117" ypos="43" zpos="-726" type="ch.raid.sv.bb" rotate="-90,-180,0" GUID="bVoBabPxDUSHSubayqGYtw==" iconFile="data/textures/1062/blue-billboard.png" />
         
     </POIs>
 
